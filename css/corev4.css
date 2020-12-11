@@ -33,7 +33,7 @@ table.ms-toolbar{
     height:45px;
 }
 .ms-menutoolbar td{
-    padding:0px 0px 0px 4px;
+    padding:0px 0 0 4px;
     margin:0px;
     border:none;
 }
@@ -66,7 +66,7 @@ table.ms-toolbar{
     white-space:nowrap;
 }
 .ms-buttoninactivehover img,.ms-buttonactivehover img{
-    margin:0px 1px 0px 0px;
+    margin:0px 1px 0 0;
 }
 td.ms-menutoolbarheader{
     font-size:10pt;
@@ -135,7 +135,7 @@ div.ms-viewselector a,div.ms-viewselectorhover a.ms-menu-a span{
     /* [ReplaceColor(themeColor:"Dark1-Medium")] */ color:#4c4c4c;
 }
 .ms-menutoolbar .ms-splitbuttondropdown{
-    padding:3px 2px 0px 2px;
+    padding:3px 2px 0 2px;
 }
 .ms-menutoolbar .ms-splitbuttontext{
     padding:0px 7px 1px 7px;
@@ -151,10 +151,10 @@ div.ms-viewselector a,div.ms-viewselectorhover a.ms-menu-a span{
     background-color:#fff;
 }
 .ms-splitbuttonhover .ms-splitbuttondropdown{
-    padding:3px 1px 0px 2px;
+    padding:3px 1px 0 2px;
 }
 .ms-splitbuttonhover .ms-splitbuttontext{
-    padding:0px 6px 0px 6px;
+    padding:0px 6px 0 6px;
 }
 .ms-splitbuttonhover .ms-splitbuttondropdown,.ms-splitbuttonhover .ms-splitbuttontext{
     border:solid 1px #cccccc;
@@ -373,7 +373,7 @@ table.ms-recyclebin td a:hover{
     font-size:1em;
     font-weight:normal;
     /* [ReplaceColor(themeColor:"Dark2")] */ color:#929fad;
-    margin:0px 0px 6px 10px;
+    margin:0px 0 6px 10px;
 }
 .ms-quicklaunchheader{
     padding:2px 6px 4px 10px;
@@ -472,7 +472,7 @@ div.ms-titleareaframe{
     font-size:11pt;
 }
 .ms-titleareaframe table td.ms-titlearea,.ms-areaseparator table td.ms-titlearea,.ms-pagetitleareaframe table td.ms-titlearea{
-    padding:7px 0px 1px 0px;
+    padding:7px 0 1px 0;
 }
 .ms-sitemapdirectional,.ms-sitemapdirectional a{
     unicode-bidi:embed;
@@ -491,7 +491,7 @@ td.ms-areaseparatorleft{
 }
 div.ms-areaseparatorleft{
     background-repeat:no-repeat;
-    background-position:-143px 0px;
+    background-position:-143px 0;
     /* [ReplaceColor(themeColor:"Accent5-Medium")] */ border-right:1px solid #6f9dd9;
     height:100%;
 }
@@ -545,7 +545,7 @@ td.ms-rightareacell div.ms-pagemargin{
     /* [ReplaceColor(themeColor:"Dark1")] */ color:#000000;
     font-family:verdana;
     font-size:16pt;
-    margin:0px 0px 4px 0px;
+    margin:0px 0 4px 0;
     font-weight:normal;
 }
 .ms-pagetitle a{
@@ -576,7 +576,7 @@ td.ms-rightareacell div.ms-pagemargin{
     font-family:tahoma;
 }
 .ms-listviewtable .ms-vh2,.ms-summarystandardbody .ms-vh2{
-    padding:1px 1px 0px 1px;
+    padding:1px 1px 0 1px;
 }
 .ms-listviewtable .ms-vb2,.ms-summarystandardbody .ms-vb2{
     padding-left:2px;
@@ -639,7 +639,7 @@ td.ms-rightareacell div.ms-pagemargin{
     font-family:verdana;
     font-size:8pt;
     /* [ReplaceColor(themeColor:"Dark1-Lighter")] */ color:#5a5a5a;
-    padding:8px 12px 0px 12px;
+    padding:8px 12px 0 12px;
 }
 .ms-separator
 {
@@ -657,7 +657,7 @@ td.ms-rightareacell div.ms-pagemargin{
 {
     height:12px;
     width:1px;
-    margin:0px 1px 0px 1px;
+    margin:0px 1px 0 1px;
     /* [ReplaceColor(themeColor:"Light2",themeShade:"0.02")] */ background:#f1f1f2;
 }
 .ms-propertysheet th.ms-authoringcontrols
@@ -746,7 +746,7 @@ td.ms-authoringcontrols > label,td.ms-authoringcontrols > span > label,td.ms-aut
     padding-top:5px !important;
 }
 .ms-disc .ms-viewheadertr th.ms-vh2{
-    padding:1px 5px 0px 4px;
+    padding:1px 5px 0 4px;
 }
 .ms-disc .ms-vh2 .ms-selectedtitle .ms-vb,.ms-disc .ms-vh2 .ms-unselectedtitle .ms-vb{
     padding-left:4px;
@@ -1384,13 +1384,13 @@ div.ms-pageinformation{
 .UserSectionHead
 {
     width:100%;
-    padding:0px 0px 3px 0px;
+    padding:0px 0 3px 0;
     color:#28292a;
 }
 .UserSectionBody
 {
     width:100%;
-    padding:0px 0px 0px 0px;
+    padding:0px 0 0 0;
 }
 .ms-KFMenu{
     border-width:1px;
@@ -1611,7 +1611,7 @@ _LocalBinding */
 }
 .ms-MenuUIItemTableCellCompactHover
 {
-    padding:0px 1px 0px 1px;
+    padding:0px 1px 0 1px;
 }
 .ms-MenuUIItemTableHover
 {
@@ -1637,17 +1637,17 @@ _LocalBinding */
 .ms-MenuUIIcon,.ms-MenuUIIconLarge
 {
     padding:
-            0px
+            0
             6px
-            0px
+            0
             2px;
 }
 .ms-MenuUIIconRtL,.ms-MenuUIIconLargeRtl
 {
     padding:
-            0px
+            0
             2px
-            0px
+            0
             6px;
 }
 .ms-MenuUILabel,.ms-MenuUILabelRtL,.ms-menuuilabelcompact,.ms-menuuilabelcompactRtl
@@ -1659,7 +1659,7 @@ _LocalBinding */
 {
     padding:
             2px
-            0px
+            0
             3px
             6px;
 }
@@ -1669,13 +1669,13 @@ _LocalBinding */
             2px
             6px
             3px
-            0px;
+            0;
 }
 .ms-menuuilabelcompact{
-    padding:1px 0px 1px 7px;
+    padding:1px 0 1px 7px;
 }
 .ms-menuuilabelcompactRtl{
-    padding:1px 7px 1px 0px;
+    padding:1px 7px 1px 0;
 }
 .ms-MenuUISubmenuArrow
 {
@@ -1693,7 +1693,7 @@ _LocalBinding */
 {
     margin:
             2px
-            0px
+            0
             2px
             26px;
 }
@@ -1703,15 +1703,15 @@ _LocalBinding */
             2px
             26px
             2px
-            0px;
+            0;
 }
 .ms-MenuUISeparatorLarge
 {
-    margin:2px 0px 2px 42px;
+    margin:2px 0 2px 42px;
 }
 .ms-MenuUISeparatorLargeRtl
 {
-    margin:2px 42px 2px 0px;
+    margin:2px 42px 2px 0;
 }
 .ms-MenuUICheckMark
 {
@@ -1879,7 +1879,7 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUI
     padding:
             2px
             4px
-            0px
+            0
             3px;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUIIconLargeRtl,div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUIIconRtL
@@ -1888,7 +1888,7 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUI
     padding:
             2px
             3px
-            0px
+            0
             4px;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a img.ms-MenuUIULImg
@@ -1939,13 +1939,13 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUI
             2px
             5px
             3px
-            0px;
+            0;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-MenuUILabelRtL
 {
     padding:
             2px
-            0px
+            0
             3px
             5px;
 }
@@ -1955,13 +1955,13 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-menuui
             1px
             5px
             1px
-            0px;
+            0;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL a span.ms-menuuilabelcompactRtl
 {
     padding:
             1px
-            0px
+            0
             1px
             5px;
 }
@@ -2001,13 +2001,13 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISep
     min-height:1px !important;
     display:block;
     line-height:1px;
-    margin:2px 0px;
+    margin:2px 0;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparator
 {
     margin:
             2px
-            0px
+            0
             2px
             26px;
 }
@@ -2017,13 +2017,13 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISep
             2px
             26px
             2px
-            0px;
+            0;
 }
 div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISeparatorLarge
 {
     margin:
             2px
-            0px
+            0
             2px
             42px;
 }
@@ -2033,7 +2033,7 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISep
             2px
             42px
             2px
-            0px;
+            0;
 }
 .ms-wpadder
 {
@@ -2152,7 +2152,7 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISep
 .ms-wpadder-closeBox
 {
     padding:2px 2px 3px 3px;
-    margin:0px 1px 0px;
+    margin:0px 1px 0;
 }
 .ms-wpadder-closeColumn{width:16px;}
 .ms-wpadder-closeColumn DIV
@@ -2176,7 +2176,7 @@ div.ms-MenuUIPopupScreen div.ms-MenuUIPopupInner ul.ms-MenuUIUL div.ms-MenuUISep
     /* [ReplaceColor(themeColor:"Dark2")] */ color:#003759;
     font-size:1.3em;
     font-family:verdana;
-    padding:5px 0px;
+    padding:5px 0;
 }
 .ms-wpadder-wpname
 {
@@ -2291,7 +2291,7 @@ a:visited{
     border-width:1px;
     border-style:solid;
     margin-right:3px;
-    padding:3px 4px 0px 2px;
+    padding:3px 4px 0 2px;
     height:18px;
     display:inline-block;
     font-family:"Segoe UI",Tahoma,Verdana,sans-serif;
@@ -2322,14 +2322,14 @@ a:visited{
 }
 .ms-siteactionsmenu > span > a > span{
     display:inline-block;
-    margin:1px 0px 0px 2px;
+    margin:1px 0 0 2px;
 }
 .ms-siteactionsmenu > span > a > img{
     vertical-align:top;
 }
 .ms-siteactionsmenu .ms-viewselector-arrow{
     display:inline-block;
-    margin:7px 0px 1px 0px;
+    margin:7px 0 1px 0;
     vertical-align:top;
 }
 .s4-siteactions a:link,.s4-siteactions a:visited{
@@ -2604,10 +2604,10 @@ body #MSO_ContentTable{
     margin:0px 10px;
 }
 .s4-devdashboard{
-    margin:13px 15px 0px 0px;
+    margin:13px 15px 0 0;
 }
 .s4-title{
-    padding:0px 0px 0px 10px;
+    padding:0px 0 0 10px;
     margin:0px;
     min-height:64px;
     /* [RecolorImage(themeColor:"Light2",method:"Filling",includeRectangle:{x:0,y:1023,width:1,height:12})] */ background:url("../img/bgximg.png") repeat-x -0px -1023px;
@@ -2627,7 +2627,7 @@ body #MSO_ContentTable{
     font-size:8pt;
 }
 .s4-titlelogo{
-    padding:12px 10px 12px 0px;
+    padding:12px 10px 12px 0;
     text-align:center;
     vertical-align:middle;
 }
@@ -2700,7 +2700,7 @@ body #MSO_ContentTable{
     vertical-align:middle;
 }
 .ms-ltviewselectormenuheader .ms-viewselector-arrow{
-    margin:0px 5px 2px 0px;
+    margin:0px 5px 2px 0;
 }
 *:first-child+html .ms-ltviewselectormenuheader .ms-viewselector-arrow{
     margin-top:2px;
@@ -2738,8 +2738,8 @@ body #s4-topheader2{
     padding:0px;
 }
 .s4-breadcrumb-anchor,.ms-qatbutton{
-    margin:0px 3px 0px 0px;
-    padding:2px 5px 0px;
+    margin:0px 3px 0 0;
+    padding:2px 5px 0;
     display:inline-block;
     text-align:center;
     border:1px solid transparent;
@@ -2925,7 +2925,7 @@ span.s4-breadcrumb{
     margin:4px 4px 3px 21px;
 }
 *:first-child+html .s4-help{
-    margin:3px 4px 0px 4px !important;
+    margin:3px 4px 0 4px !important;
     vertical-align:baseline;
     padding-bottom:2px;
 }
@@ -2948,7 +2948,7 @@ body #s4-leftpanel{
     float:left;
 }
 body #s4-leftpanel-content{
-    padding:0px 0px 5px;
+    padding:0px 0 5px;
     /* [ReplaceColor(themeColor:"Light2")] */ background-color:#fcfcfc;
     /* [ReplaceColor(themeColor:"Light2-Lightest")] */ border:1px solid #dbddde;
     border-top-width:0px;
@@ -2972,7 +2972,7 @@ body #s4-leftpanel-content{
     /* [ReplaceColor(themeColor:"Dark2")] */ color:#0072bc;
     margin:0px;
     padding:3px 4px 3px 10px;
-    border-width:1px 0px;
+    border-width:1px 0;
     border-style:solid;
     border-color:transparent;
     word-wrap:break-word;
@@ -2982,12 +2982,12 @@ body #s4-leftpanel-content{
     text-decoration:underline;
 }
 .s4-ql ul.root ul{
-    margin:0px 0px 20px 0px;
+    margin:0px 0 20px 0;
     padding-left:0px;
 }
 .s4-ql ul.root ul > li > a{
     padding:3px 4px 4px 10px;
-    border-width:1px 0px;
+    border-width:1px 0;
     border-style:solid;
     border-color:transparent;
     /* [ReplaceColor(themeColor:"Dark1")] */ color:#3b4f65;
@@ -3036,7 +3036,7 @@ body #s4-leftpanel-content{
 }
 .s4-ql,.s4-specialNavLinkList{
     list-style-type:none;
-    margin:0px 0px 20px 0px;
+    margin:0px 0 20px 0;
     padding:0px;
 }
 .s4-specialNavLinkList{
@@ -3061,7 +3061,7 @@ body #s4-leftpanel-content{
     min-height:324px;
 }
 .s4-ba{
-    padding:0px 0px 5px 0px;
+    padding:0px 0 5px 0;
 }
 .s4-bodypadding{
     padding:10px;
@@ -3202,7 +3202,7 @@ tr.s4-itm-selected .s4-ctx-show:hover{
 body #pageStatusBar{
     display:none;
     border-style:solid;
-    border-width:1px 0px;
+    border-width:1px 0;
     padding:4px 5px 5px 10px;
     font-family:verdana;
     font-size:1em;
@@ -3253,7 +3253,7 @@ td table.ms-listviewtable{
 }
 table.ms-listviewtable > tbody > tr > td{
     border:1px solid transparent;
-    border-width:1px 0px;
+    border-width:1px 0;
 }
 table.ms-listviewtable > tbody > tr.ms-selectednav > td{
     border:1px solid transparent;
@@ -3468,7 +3468,7 @@ table.ms-listviewtable tbody tr.ms-viewheadertr th.ms-vh-inlineedit{
     overflow:hidden;
 }
 .s4-recentchanges{
-    padding:5px 0px 10px;
+    padding:5px 0 10px;
     margin-bottom:10px;
     border-bottom:1px solid #dbddde;
 }
@@ -3530,13 +3530,13 @@ body #s4-simple-header{
 }
 body #s4-simple-card{
     width:575px;
-    margin:100px auto 0px auto;
+    margin:100px auto 0 auto;
     /* [ReplaceColor(themeColor:"Light1")] */ background-color:#fafcff;
     /* [ReplaceColor(themeColor:"Dark2-Lightest")] */ border-top:1px solid #e3e8ee;
     /* [ReplaceColor(themeColor:"Dark2-Lightest")] */ border-left:1px solid #d9dde3;
     /* [ReplaceColor(themeColor:"Dark2-Lightest")] */ border-bottom:2px solid #bec2c7;
     /* [ReplaceColor(themeColor:"Dark2-Lightest")] */ border-right:2px solid #d9dde3;
-    filter:progid:DXImageTransform.Microsoft.Shadow(color:#edf3f9,strength:5,direction:135);-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color:#edf3f9,strength:5,direction:135)";-moz-box-shadow:#edf3f9 0px 0px 5px 0px;-webkit-box-shadow:0px 0px 5px #edf3f9;box-shadow:0px 0px 5px #edf3f9;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color:#edf3f9,strength:5,direction:135);-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color:#edf3f9,strength:5,direction:135)";-moz-box-shadow:#edf3f9 0 0 5px 0;-webkit-box-shadow:0px 0 5px #edf3f9;box-shadow:0px 0 5px #edf3f9;
 }
 body #s4-simple-card.s4-simple-gearpage{
     margin-top:120px;
@@ -3556,7 +3556,7 @@ body #s4-simple-card a img{
 body #s4-simple-card-top{
     height:10px;
     text-align:right;
-    padding:10px 10px 0px 10px;
+    padding:10px 10px 0 10px;
 }
 body #s4-simple-card-content{
     margin:0px 30px 30px 30px;
@@ -3577,7 +3577,7 @@ body #s4-simple-card h1{
     /* [ReplaceColor(themeColor:"Dark2")] */ color:#003759;
 }
 body #s4-simple-card.s4-simple-gearpage h1{
-    margin:50px 0px 50px -25px;
+    margin:50px 0 50px -25px;
     text-align:center;
 }
 body #s4-simple-error-content{
@@ -3773,7 +3773,7 @@ DIV.ms-rteElement-Callout4{
     -ms-name:"Comment";
     font-style:italic;
     /* [ReplaceColor(themeColor:"Accent5-Darkest")] */ color:#36b000;
-    /* [ReplaceColor(themeColor:"Dark1")] */ text-shadow:0px 0px 5px #000;
+    /* [ReplaceColor(themeColor:"Dark1")] */ text-shadow:0px 0 5px #000;
 }
 .ms-rteStyle-References
 {
@@ -4939,7 +4939,7 @@ TH.ms-rteTable-default,
     border-collapse:collapse;
 }
 .ms-rtestate-write p,.ms-rtestate-read p{
-    margin:0px 0px 10px 0px;
+    margin:0px 0 10px 0;
 }
 .ms-rte-autocomplete
 {
@@ -5315,7 +5315,7 @@ TH.ms-rteTable-default,
 }
 .ms-linksection-level1 img
 {
-    padding:0px 8px 0px 0px;
+    padding:0px 8px 0 0;
 }
 .ms-linksection-level1 ul
 {
@@ -5368,7 +5368,7 @@ TH.ms-rteTable-default,
 }
 .ms-linksection-level2 img
 {
-    padding:0px 8px 0px 10px;
+    padding:0px 8px 0 10px;
 }
 .ms-linksection-level2 ul,.ms-linksection-level2 ul li
 {
@@ -5398,7 +5398,7 @@ TH.ms-rteTable-default,
 }
 .ms-linksection-level2 span
 {
-    padding:0px 2px 0px 0px;
+    padding:0px 2px 0 0;
 }
 .ms-currentRating
 {
@@ -5707,14 +5707,14 @@ _LocalBinding */
     height:44px;
     overflow-y:hidden;
     overflow-x:hidden;
-    margin:0px 0px -1px 0px;
+    margin:0px 0 -1px 0;
     padding:0px;
     list-style-type:none;
 }
 .ms-cui-tt,.ms-cui-cg{
     display:block;
     float:left;
-    margin:0px 2px 2px 0px;
+    margin:0px 2px 2px 0;
     padding:0px;
     list-style-type:none;
     height:42px;
@@ -5769,7 +5769,7 @@ _LocalBinding */
     /* [RecolorImage(themeColor:"Light2",method:"Tinting",includeRectangle:{x:0,y:890,width:1,height:86})] */ background:#fff url("../img/bgximg.png") repeat-x -0px -882px;
     height:90px;
     border-style:solid;
-    border-width:0px 0px 1px 0px;
+    border-width:0px 0 1px 0;
     border-bottom-color:#898d92;
     margin:0px;
     padding:0px;
@@ -5789,7 +5789,7 @@ _LocalBinding */
 }
 .ms-cui-groupBody{
     display:block;
-    padding:2px 3px 0px;
+    padding:2px 3px 0;
     height:71px;
     text-align:center;
 }
@@ -5799,7 +5799,7 @@ _LocalBinding */
     /* [ReplaceColor(themeColor:"Dark2-Darker")] */ color:#5b626c;
     cursor:default;
     white-space:nowrap;
-    padding:0px 6px 0px 3px;
+    padding:0px 6px 0 3px;
 }
 .ms-cui-groupSeparator{
     display:inline-block;
@@ -5856,8 +5856,8 @@ _LocalBinding */
     height:44px;
 }
 .ms-cui-toolbar-buttondock{
-    padding:1px 0px 0px;
-    margin:20px 0px 1px;
+    padding:1px 0 0;
+    margin:20px 0 1px;
     height:22px;
     vertical-align:top;
 }
@@ -6486,7 +6486,7 @@ _LocalBinding */
     margin-right:1px;
 }
 a.ms-cui-ctl-large{
-    padding:2px 0px 2px;
+    padding:2px 0 2px;
     border:1px solid transparent;
     height:63px;
     cursor:default;
@@ -6507,7 +6507,7 @@ a.ms-cui-ctl-a1:hover *,a.ms-cui-ctl-large:hover *,a.ms-cui-ctl-thin:hover *,.ms
 }
 .ms-cui-ctl-largelabel{
     display:block;
-    padding:2px 1px 0px;
+    padding:2px 1px 0;
     line-height:1em !important;
 }
 .ms-cui-ctl-a2 .ms-cui-ctl-largelabel{
@@ -6516,7 +6516,7 @@ a.ms-cui-ctl-a1:hover *,a.ms-cui-ctl-large:hover *,a.ms-cui-ctl-thin:hover *,.ms
 }
 .ms-cui-ctl-largeIconContainer{
     height:33px;
-    padding:2px 4px 0px;
+    padding:2px 4px 0;
     display:block;
 }
 .ms-cui-ctl-large .ms-cui-ctl-a1Internal{
@@ -6661,7 +6661,7 @@ a.ms-cui-ctl-medium .ms-cui-ctl-mediumlabel{
 }
 a.ms-cui-ctl-menu,a.ms-cui-ctl-menu:visited{
     border:1px solid transparent;
-    padding:0px 10px 0px 2px;
+    padding:0px 10px 0 2px;
     display:block;
     word-wrap:break-word;
     cursor:default;
@@ -6686,7 +6686,7 @@ ul.ms-cui-menusection-items32 .ms-cui-ctl-iconContainer,ul.ms-cui-menusection-it
 }
 .ms-cui-ctl-menu .ms-cui-ctl-mediumlabel{
     display:inline-block;
-    padding:3px 0px;
+    padding:3px 0;
 }
 .ms-cui-ctl-menulabel{
     display:block;
@@ -6833,7 +6833,7 @@ span.ms-cui-disabled:hover > .ms-cui-dd-arrow-button{
 .ms-cui-fslb{
     display:inline-block;
     height:17px;
-    padding:2px 1px 3px 0px;
+    padding:2px 1px 3px 0;
     vertical-align:bottom;
     color:#23272c;
     margin-left:1px;
@@ -7157,7 +7157,7 @@ span.ms-cui-disabled:hover > .ms-cui-dd-arrow-button{
 {
     cursor:default;
     height:16px;
-    padding:0px 0px 0px 2px;
+    padding:0px 0 0 2px;
 }
 .ms-cui-menu{
     border:1px solid #bec1c4;
