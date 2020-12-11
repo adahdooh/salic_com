@@ -241,6 +241,7 @@ body {
     background-position: left top;
     background-repeat: repeat-x;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-size: contain;
 
 }
 
@@ -452,7 +453,7 @@ body {
     padding: 6px;
     margin: 0 auto;
     overflow: hidden;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
     float: left;
 }
 
@@ -2903,3 +2904,68 @@ input[type="file"] {
     display: none !important;
 }
 
+
+.map-zone {
+    width: 100%;
+}
+
+@media only screen and (max-width: 480px) {
+
+    .logo {
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        margin-top: 20px !important;
+    }
+
+    html[lang="en-us"] .logo {
+        flex-direction: row-reverse !important;
+    }
+
+    html[lang="ar-sa"] .logo {
+        flex-direction: row !important;
+    }
+
+    .logo > div:first-child {
+        flex-grow: 1 !important;
+        text-align: center !important;
+        margin-top: 0 !important;
+    }
+
+    .logo > div:first-child img {
+        width: 190px !important;
+        height: auto !important;
+    }
+
+    #vision-logo-a img {
+        width: 50px !important;
+        height: auto !important;
+    }
+
+    .logo > div {
+        float: none !important;
+    }
+
+    .TopLinks {
+        margin-top: 10px !important;
+    }
+
+    .TopLinks a {
+        font-size: 11px;
+    }
+
+    .map-zone {
+        width: 100% !important;
+    }
+
+    .allnews-btn {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    html[lang="en-us"] .logo {
+        flex-direction: row-reverse !important;
+    }
+}

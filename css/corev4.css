@@ -2515,10 +2515,10 @@ body #RibbonContainer.loaded{
     /* [ReplaceColor(themeColor:"Dark2")] */ color:#23272c !important;
 }
 body #s4-workspace{
-    overflow-y:scroll;
-    overflow-x:auto;
-    position:relative;
-    left:0px;
+    /*overflow-y:scroll;*/
+    /*overflow-x:auto;*/
+    /*position:relative;*/
+    /*left:0px;*/
 }
 body #s4-bodyContainer{
     min-width:760px;
