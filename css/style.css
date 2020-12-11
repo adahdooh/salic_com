@@ -237,7 +237,7 @@ ul.salicListing li {
 }
 
 body {
-    background-image: url("https://www.salic.com/Style%20Library/Salic/img/body-bg.png");
+    background-image: url("../img/body-bg.png");
     background-position: left top;
     background-repeat: repeat-x;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;

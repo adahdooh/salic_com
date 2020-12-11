@@ -2,87 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a940296-af36-498b-8aa3-cd77d56918a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/careers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commitments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/page-layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/governance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ANNUAL_PROGRAME_STAFF_TRAINING.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Acquired_Mariya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Austrilla Minister.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/BALADJIE_AQUISITION.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Bahri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEOAambiaEmbasidor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEOMetIrshAgriMin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_KAZAKHSTAN_EMBASSADOR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_KHALID_ABODI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_MATTHEW.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_MET_BRZIL_MIN_AGRI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_RUSSIAN_BUINESS_COUNCIL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_WELCOME_DIR_RUSSIAN_ARB_CON.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_WELCOME_FRENCH_FOR_MIN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_WLECOME_BRAZIL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CEO_Welcome_Mauritanian_Minister.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Career-DSC_0193.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Daawat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FADHLI_SALIC_PAVILION.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FirstWheatPurchase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Fourth_Phase_SALIC_Dev_Launch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/G3TV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Governance-Risk-Compliance-Early-Potatos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/KSA_GRAIN_TERMINAL_Rollup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/MD_CEO_Russian_DIF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/New_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Our-Committment-DSC_0572.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALIC4SaudiBakeryExbParticipation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALICMinervaStakeIncrease.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALICParticipationSaudiExhibition19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALICWheatExportUkraine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALIC_ACQUIRED_UFHG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALIC_Chairman Ibrahim_AlFadhli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SALIC_MNERVA2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SAlIC Seminar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SDP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Seond Dev Graduation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Stockpiling-Seminar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SulaimanCEORollup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/UzbekEmbassador.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/captcha.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contract sig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board.html" beforeDir="false" afterPath="$PROJECT_DIR$/board.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ceo-message.html" beforeDir="false" afterPath="$PROJECT_DIR$/ceo-message.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/continental-farmers.html" beforeDir="false" afterPath="$PROJECT_DIR$/continental-farmers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/executive-maagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/executive-maagement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-grain.html" beforeDir="false" afterPath="$PROJECT_DIR$/global-grain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hummin.html" beforeDir="false" afterPath="$PROJECT_DIR$/hummin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/investment-destination.html" beforeDir="false" afterPath="$PROJECT_DIR$/investment-destination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merredin-farms.html" beforeDir="false" afterPath="$PROJECT_DIR$/merredin-farms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerva-foods.html" beforeDir="false" afterPath="$PROJECT_DIR$/minerva-foods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-products.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-value.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-value.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnership.html" beforeDir="false" afterPath="$PROJECT_DIR$/partnership.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salic-australia.html" beforeDir="false" afterPath="$PROJECT_DIR$/salic-australia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salic-canada.html" beforeDir="false" afterPath="$PROJECT_DIR$/salic-canada.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salic-uk.html" beforeDir="false" afterPath="$PROJECT_DIR$/salic-uk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/strategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subside.html" beforeDir="false" afterPath="$PROJECT_DIR$/subside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/united-farmer.html" beforeDir="false" afterPath="$PROJECT_DIR$/united-farmer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vision-mission.html" beforeDir="false" afterPath="$PROJECT_DIR$/vision-mission.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="2971" selection-start-line="2971" selection-end-line="2971" />
+            <state relative-caret-position="131">
+              <caret line="239" column="45" selection-start-line="239" selection-start-column="45" selection-end-line="239" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -134,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="420" column="100" selection-start-line="420" selection-start-column="100" selection-end-line="420" selection-end-column="100" />
+            <state relative-caret-position="162">
+              <caret line="426" column="40" selection-start-line="426" selection-start-column="40" selection-end-line="426" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -168,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>col-md-9 col-lg-9 form-inputs form-group</find>
       <find>submit</find>
       <find>onclick</find>
       <find>clear</find>
@@ -195,9 +115,10 @@
       <find>img</find>
       <find>SALIC News</find>
       <find>ms-bodyareacell</find>
-      <find>bread</find>
       <find>captioned-image</find>
       <find>news1</find>
+      <find>bread</find>
+      <find>body-bg</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;a href=&quot;index.html&quot; class=&quot;home-icon&quot;&gt;</replace>
@@ -249,7 +170,6 @@
         <option value="$PROJECT_DIR$/board.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact-us.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/news1.html" />
         <option value="$PROJECT_DIR$/css/page-layout.css" />
         <option value="$PROJECT_DIR$/news2.html" />
@@ -257,6 +177,7 @@
         <option value="$PROJECT_DIR$/news4.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/news5.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -278,6 +199,11 @@
             <path>
               <item name="salic" type="b2602c69:ProjectViewProjectNode" />
               <item name="salic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="salic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salic" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,12 +252,12 @@
       <updated>1607681917257</updated>
       <workItem from="1607681920330" duration="17848000" />
       <workItem from="1607700169644" duration="1830000" />
-      <workItem from="1607702014021" duration="10684000" />
+      <workItem from="1607702014021" duration="11876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30362000" />
+    <option name="totallyTimeSpent" value="31554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -340,7 +266,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13813615" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -432,9 +358,6 @@
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/body-bg.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/product/shaeer.png">
       <provider selected="true" editor-type-id="images" />
@@ -1408,13 +1331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="2971" selection-start-line="2971" selection-end-line="2971" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1473,8 +1389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/news5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="420" column="100" selection-start-line="420" selection-start-column="100" selection-end-line="420" selection-end-column="100" />
+        <state relative-caret-position="162">
+          <caret line="426" column="40" selection-start-line="426" selection-start-column="40" selection-end-line="426" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1496,6 +1412,16 @@
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/body-bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="239" column="45" selection-start-line="239" selection-start-column="45" selection-end-line="239" selection-end-column="45" />
         </state>
       </provider>
     </entry>
